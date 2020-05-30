@@ -1,0 +1,27 @@
+D:\C#\Operating_System\SRTF\obj\Debug\SRTF.csprojResolveAssemblyReference.cache
+D:\C#\Operating_System\SRTF\obj\Debug\SRTF.Form1.resources
+D:\C#\Operating_System\SRTF\obj\Debug\SRTF.Properties.Resources.resources
+D:\C#\Operating_System\SRTF\obj\Debug\SRTF.csproj.GenerateResource.Cache
+D:\C#\Operating_System\SRTF\bin\Debug\SRTF.exe
+D:\C#\Operating_System\SRTF\bin\Debug\SRTF.pdb
+D:\C#\Operating_System\SRTF\obj\Debug\SRTF.exe
+D:\C#\Operating_System\SRTF\obj\Debug\SRTF.pdb
+D:\Study\Operating Systems\Operating_System\SRTF\obj\Debug\SRTF.exe
+D:\Study\Operating Systems\Operating_System\SRTF\obj\Debug\SRTF.pdb
+D:\Study\Operating Systems\Operating_System\SRTF\obj\Debug\SRTF.csprojResolveAssemblyReference.cache
+D:\Study\Operating Systems\Operating_System\SRTF\obj\Debug\SRTF.Properties.Resources.resources
+D:\Study\Operating Systems\Operating_System\SRTF\obj\Debug\SRTF.csproj.GenerateResource.Cache
+D:\Study\Operating Systems\Operating_System\SRTF\obj\Debug\SRTF.Form1.resources
+D:\Study\Operating Systems\Operating_System\SRTF\bin\Debug\SRTF.exe
+D:\Study\Operating Systems\Operating_System\SRTF\bin\Debug\SRTF.pdb
+D:\Study\Operating Systems\Operating_System\SRTF\obj\Debug\SRTF.Form2.resources
+D:\Extra\University\Semester # 05\Operating Systems\Operating_System\SRTF\bin\Debug\SRTF.exe
+D:\Extra\University\Semester # 05\Operating Systems\Operating_System\SRTF\bin\Debug\SRTF.pdb
+D:\Extra\University\Semester # 05\Operating Systems\Operating_System\SRTF\obj\Debug\SRTF.csprojAssemblyReference.cache
+D:\Extra\University\Semester # 05\Operating Systems\Operating_System\SRTF\obj\Debug\SRTF.Form1.resources
+D:\Extra\University\Semester # 05\Operating Systems\Operating_System\SRTF\obj\Debug\SRTF.Form2.resources
+D:\Extra\University\Semester # 05\Operating Systems\Operating_System\SRTF\obj\Debug\SRTF.Properties.Resources.resources
+D:\Extra\University\Semester # 05\Operating Systems\Operating_System\SRTF\obj\Debug\SRTF.csproj.GenerateResource.cache
+D:\Extra\University\Semester # 05\Operating Systems\Operating_System\SRTF\obj\Debug\SRTF.csproj.CoreCompileInputs.cache
+D:\Extra\University\Semester # 05\Operating Systems\Operating_System\SRTF\obj\Debug\SRTF.exe
+D:\Extra\University\Semester # 05\Operating Systems\Operating_System\SRTF\obj\Debug\SRTF.pdb
