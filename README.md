@@ -1,4 +1,4 @@
-# OS-Schecduling
+# OS-Scheduling
 
 You have studied various scheduling algorithms and want to implement them but you need some assistance. Well you can use my code to help you understand various concepts.
 
